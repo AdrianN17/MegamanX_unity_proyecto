@@ -1,0 +1,2121 @@
+fileFormatVersion: 2
+guid: b58236d6e4ef9b748aa9b99ec670151a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: megaman_x1_intro_stage_by_darksamus993_0
+    21300002: megaman_x1_intro_stage_by_darksamus993_1
+    21300004: megaman_x1_intro_stage_by_darksamus993_2
+    21300006: megaman_x1_intro_stage_by_darksamus993_3
+    21300008: megaman_x1_intro_stage_by_darksamus993_4
+    21300010: megaman_x1_intro_stage_by_darksamus993_5
+    21300012: megaman_x1_intro_stage_by_darksamus993_6
+    21300014: megaman_x1_intro_stage_by_darksamus993_7
+    21300016: megaman_x1_intro_stage_by_darksamus993_8
+    21300018: megaman_x1_intro_stage_by_darksamus993_9
+    21300020: megaman_x1_intro_stage_by_darksamus993_10
+    21300022: megaman_x1_intro_stage_by_darksamus993_11
+    21300024: megaman_x1_intro_stage_by_darksamus993_12
+    21300026: megaman_x1_intro_stage_by_darksamus993_13
+    21300028: megaman_x1_intro_stage_by_darksamus993_14
+    21300030: megaman_x1_intro_stage_by_darksamus993_15
+    21300032: megaman_x1_intro_stage_by_darksamus993_16
+    21300034: megaman_x1_intro_stage_by_darksamus993_17
+    21300036: megaman_x1_intro_stage_by_darksamus993_18
+    21300038: megaman_x1_intro_stage_by_darksamus993_19
+    21300040: megaman_x1_intro_stage_by_darksamus993_20
+    21300042: megaman_x1_intro_stage_by_darksamus993_21
+    21300044: megaman_x1_intro_stage_by_darksamus993_22
+    21300046: megaman_x1_intro_stage_by_darksamus993_23
+    21300048: megaman_x1_intro_stage_by_darksamus993_24
+    21300050: megaman_x1_intro_stage_by_darksamus993_25
+    21300052: megaman_x1_intro_stage_by_darksamus993_26
+    21300054: megaman_x1_intro_stage_by_darksamus993_27
+    21300056: megaman_x1_intro_stage_by_darksamus993_28
+    21300058: megaman_x1_intro_stage_by_darksamus993_29
+    21300060: megaman_x1_intro_stage_by_darksamus993_30
+    21300062: megaman_x1_intro_stage_by_darksamus993_31
+    21300064: megaman_x1_intro_stage_by_darksamus993_32
+    21300066: megaman_x1_intro_stage_by_darksamus993_33
+    21300068: megaman_x1_intro_stage_by_darksamus993_34
+    21300070: megaman_x1_intro_stage_by_darksamus993_35
+    21300072: megaman_x1_intro_stage_by_darksamus993_36
+    21300074: megaman_x1_intro_stage_by_darksamus993_37
+    21300076: megaman_x1_intro_stage_by_darksamus993_38
+    21300078: megaman_x1_intro_stage_by_darksamus993_39
+    21300080: megaman_x1_intro_stage_by_darksamus993_40
+    21300082: megaman_x1_intro_stage_by_darksamus993_41
+    21300084: megaman_x1_intro_stage_by_darksamus993_42
+    21300086: megaman_x1_intro_stage_by_darksamus993_43
+    21300088: megaman_x1_intro_stage_by_darksamus993_44
+    21300090: megaman_x1_intro_stage_by_darksamus993_45
+    21300092: megaman_x1_intro_stage_by_darksamus993_46
+    21300094: megaman_x1_intro_stage_by_darksamus993_47
+    21300096: megaman_x1_intro_stage_by_darksamus993_48
+    21300098: megaman_x1_intro_stage_by_darksamus993_49
+    21300100: megaman_x1_intro_stage_by_darksamus993_50
+    21300102: megaman_x1_intro_stage_by_darksamus993_51
+    21300104: megaman_x1_intro_stage_by_darksamus993_52
+    21300106: megaman_x1_intro_stage_by_darksamus993_53
+    21300108: megaman_x1_intro_stage_by_darksamus993_54
+    21300110: megaman_x1_intro_stage_by_darksamus993_55
+    21300112: megaman_x1_intro_stage_by_darksamus993_56
+    21300114: megaman_x1_intro_stage_by_darksamus993_57
+    21300116: megaman_x1_intro_stage_by_darksamus993_58
+    21300118: megaman_x1_intro_stage_by_darksamus993_59
+    21300120: megaman_x1_intro_stage_by_darksamus993_60
+    21300122: megaman_x1_intro_stage_by_darksamus993_61
+    21300124: megaman_x1_intro_stage_by_darksamus993_62
+    21300126: megaman_x1_intro_stage_by_darksamus993_63
+    21300128: megaman_x1_intro_stage_by_darksamus993_64
+    21300130: megaman_x1_intro_stage_by_darksamus993_65
+    21300132: megaman_x1_intro_stage_by_darksamus993_66
+    21300134: megaman_x1_intro_stage_by_darksamus993_67
+    21300136: megaman_x1_intro_stage_by_darksamus993_68
+    21300138: megaman_x1_intro_stage_by_darksamus993_69
+    21300140: megaman_x1_intro_stage_by_darksamus993_70
+    21300142: megaman_x1_intro_stage_by_darksamus993_71
+    21300144: megaman_x1_intro_stage_by_darksamus993_72
+    21300146: megaman_x1_intro_stage_by_darksamus993_73
+    21300148: megaman_x1_intro_stage_by_darksamus993_74
+    21300150: megaman_x1_intro_stage_by_darksamus993_75
+    21300152: megaman_x1_intro_stage_by_darksamus993_76
+    21300154: megaman_x1_intro_stage_by_darksamus993_77
+    21300156: megaman_x1_intro_stage_by_darksamus993_78
+    21300158: megaman_x1_intro_stage_by_darksamus993_79
+    21300160: megaman_x1_intro_stage_by_darksamus993_80
+    21300162: megaman_x1_intro_stage_by_darksamus993_81
+    21300164: megaman_x1_intro_stage_by_darksamus993_82
+    21300166: megaman_x1_intro_stage_by_darksamus993_83
+    21300168: megaman_x1_intro_stage_by_darksamus993_84
+    21300170: megaman_x1_intro_stage_by_darksamus993_85
+    21300172: megaman_x1_intro_stage_by_darksamus993_86
+    21300174: megaman_x1_intro_stage_by_darksamus993_87
+    21300176: megaman_x1_intro_stage_by_darksamus993_88
+    21300178: megaman_x1_intro_stage_by_darksamus993_89
+    21300180: megaman_x1_intro_stage_by_darksamus993_90
+    21300182: megaman_x1_intro_stage_by_darksamus993_91
+    21300184: megaman_x1_intro_stage_by_darksamus993_92
+    21300186: megaman_x1_intro_stage_by_darksamus993_93
+    21300188: megaman_x1_intro_stage_by_darksamus993_94
+    21300190: megaman_x1_intro_stage_by_darksamus993_95
+    21300192: megaman_x1_intro_stage_by_darksamus993_96
+    21300194: megaman_x1_intro_stage_by_darksamus993_97
+    21300196: megaman_x1_intro_stage_by_darksamus993_98
+    21300198: megaman_x1_intro_stage_by_darksamus993_99
+    21300200: megaman_x1_intro_stage_by_darksamus993_100
+    21300202: megaman_x1_intro_stage_by_darksamus993_101
+    21300204: megaman_x1_intro_stage_by_darksamus993_102
+    21300206: megaman_x1_intro_stage_by_darksamus993_103
+    21300208: megaman_x1_intro_stage_by_darksamus993_104
+    21300210: megaman_x1_intro_stage_by_darksamus993_105
+    21300212: megaman_x1_intro_stage_by_darksamus993_106
+    21300214: megaman_x1_intro_stage_by_darksamus993_107
+    21300216: megaman_x1_intro_stage_by_darksamus993_108
+    21300218: megaman_x1_intro_stage_by_darksamus993_109
+    21300220: megaman_x1_intro_stage_by_darksamus993_110
+    21300222: megaman_x1_intro_stage_by_darksamus993_111
+    21300224: megaman_x1_intro_stage_by_darksamus993_112
+    21300226: megaman_x1_intro_stage_by_darksamus993_113
+    21300228: megaman_x1_intro_stage_by_darksamus993_114
+    21300230: megaman_x1_intro_stage_by_darksamus993_115
+    21300232: megaman_x1_intro_stage_by_darksamus993_116
+    21300234: megaman_x1_intro_stage_by_darksamus993_117
+    21300236: megaman_x1_intro_stage_by_darksamus993_118
+    21300238: megaman_x1_intro_stage_by_darksamus993_119
+    21300240: megaman_x1_intro_stage_by_darksamus993_120
+    21300242: megaman_x1_intro_stage_by_darksamus993_121
+    21300244: megaman_x1_intro_stage_by_darksamus993_122
+    21300246: megaman_x1_intro_stage_by_darksamus993_123
+    21300248: megaman_x1_intro_stage_by_darksamus993_124
+    21300250: megaman_x1_intro_stage_by_darksamus993_125
+    21300252: megaman_x1_intro_stage_by_darksamus993_126
+    21300254: megaman_x1_intro_stage_by_darksamus993_127
+    21300256: megaman_x1_intro_stage_by_darksamus993_128
+    21300258: megaman_x1_intro_stage_by_darksamus993_129
+    21300260: megaman_x1_intro_stage_by_darksamus993_130
+    21300262: megaman_x1_intro_stage_by_darksamus993_131
+    21300264: megaman_x1_intro_stage_by_darksamus993_132
+    21300266: megaman_x1_intro_stage_by_darksamus993_133
+    21300268: megaman_x1_intro_stage_by_darksamus993_134
+    21300270: megaman_x1_intro_stage_by_darksamus993_135
+    21300272: megaman_x1_intro_stage_by_darksamus993_136
+    21300274: megaman_x1_intro_stage_by_darksamus993_137
+    21300276: megaman_x1_intro_stage_by_darksamus993_138
+    21300278: megaman_x1_intro_stage_by_darksamus993_139
+    21300280: megaman_x1_intro_stage_by_darksamus993_140
+    21300282: megaman_x1_intro_stage_by_darksamus993_141
+    21300284: megaman_x1_intro_stage_by_darksamus993_142
+    21300286: megaman_x1_intro_stage_by_darksamus993_143
+    21300288: megaman_x1_intro_stage_by_darksamus993_144
+    21300290: megaman_x1_intro_stage_by_darksamus993_145
+    21300292: megaman_x1_intro_stage_by_darksamus993_146
+    21300294: megaman_x1_intro_stage_by_darksamus993_147
+    21300296: megaman_x1_intro_stage_by_darksamus993_148
+    21300298: megaman_x1_intro_stage_by_darksamus993_149
+    21300300: megaman_x1_intro_stage_by_darksamus993_150
+    21300302: megaman_x1_intro_stage_by_darksamus993_151
+    21300304: megaman_x1_intro_stage_by_darksamus993_152
+    21300306: megaman_x1_intro_stage_by_darksamus993_153
+    21300308: megaman_x1_intro_stage_by_darksamus993_154
+    21300310: megaman_x1_intro_stage_by_darksamus993_155
+    21300312: megaman_x1_intro_stage_by_darksamus993_156
+    21300314: megaman_x1_intro_stage_by_darksamus993_157
+    21300316: megaman_x1_intro_stage_by_darksamus993_158
+    21300318: megaman_x1_intro_stage_by_darksamus993_159
+    21300320: megaman_x1_intro_stage_by_darksamus993_160
+    21300322: megaman_x1_intro_stage_by_darksamus993_161
+    21300324: megaman_x1_intro_stage_by_darksamus993_162
+    21300326: megaman_x1_intro_stage_by_darksamus993_163
+    21300328: megaman_x1_intro_stage_by_darksamus993_164
+    21300330: megaman_x1_intro_stage_by_darksamus993_165
+    21300332: megaman_x1_intro_stage_by_darksamus993_166
+    21300334: megaman_x1_intro_stage_by_darksamus993_167
+    21300336: megaman_x1_intro_stage_by_darksamus993_168
+    21300338: megaman_x1_intro_stage_by_darksamus993_169
+    21300340: megaman_x1_intro_stage_by_darksamus993_170
+    21300342: megaman_x1_intro_stage_by_darksamus993_171
+    21300344: megaman_x1_intro_stage_by_darksamus993_172
+    21300346: megaman_x1_intro_stage_by_darksamus993_173
+    21300348: megaman_x1_intro_stage_by_darksamus993_174
+    21300350: megaman_x1_intro_stage_by_darksamus993_175
+    21300352: megaman_x1_intro_stage_by_darksamus993_176
+    21300354: megaman_x1_intro_stage_by_darksamus993_177
+    21300356: megaman_x1_intro_stage_by_darksamus993_178
+    21300358: megaman_x1_intro_stage_by_darksamus993_179
+    21300360: megaman_x1_intro_stage_by_darksamus993_180
+    21300362: megaman_x1_intro_stage_by_darksamus993_181
+    21300364: megaman_x1_intro_stage_by_darksamus993_182
+    21300366: megaman_x1_intro_stage_by_darksamus993_183
+    21300368: megaman_x1_intro_stage_by_darksamus993_184
+    21300370: megaman_x1_intro_stage_by_darksamus993_185
+    21300372: megaman_x1_intro_stage_by_darksamus993_186
+    21300374: megaman_x1_intro_stage_by_darksamus993_187
+    21300376: megaman_x1_intro_stage_by_darksamus993_188
+    21300378: megaman_x1_intro_stage_by_darksamus993_189
+    21300380: megaman_x1_intro_stage_by_darksamus993_190
+    21300382: megaman_x1_intro_stage_by_darksamus993_191
+    21300384: megaman_x1_intro_stage_by_darksamus993_192
+    21300386: megaman_x1_intro_stage_by_darksamus993_193
+    21300388: megaman_x1_intro_stage_by_darksamus993_194
+    21300390: megaman_x1_intro_stage_by_darksamus993_195
+    21300392: megaman_x1_intro_stage_by_darksamus993_196
+    21300394: megaman_x1_intro_stage_by_darksamus993_197
+    21300396: megaman_x1_intro_stage_by_darksamus993_198
+    21300398: megaman_x1_intro_stage_by_darksamus993_199
+    21300400: megaman_x1_intro_stage_by_darksamus993_200
+    21300402: megaman_x1_intro_stage_by_darksamus993_201
+    21300404: megaman_x1_intro_stage_by_darksamus993_202
+    21300406: megaman_x1_intro_stage_by_darksamus993_203
+    21300408: megaman_x1_intro_stage_by_darksamus993_204
+    21300410: megaman_x1_intro_stage_by_darksamus993_205
+    21300412: megaman_x1_intro_stage_by_darksamus993_206
+    21300414: megaman_x1_intro_stage_by_darksamus993_207
+    21300416: megaman_x1_intro_stage_by_darksamus993_208
+    21300418: megaman_x1_intro_stage_by_darksamus993_209
+    21300420: megaman_x1_intro_stage_by_darksamus993_210
+    21300422: megaman_x1_intro_stage_by_darksamus993_211
+    21300424: megaman_x1_intro_stage_by_darksamus993_212
+    21300426: megaman_x1_intro_stage_by_darksamus993_213
+    21300428: megaman_x1_intro_stage_by_darksamus993_214
+    21300430: megaman_x1_intro_stage_by_darksamus993_215
+    21300432: megaman_x1_intro_stage_by_darksamus993_216
+    21300434: megaman_x1_intro_stage_by_darksamus993_217
+    21300436: megaman_x1_intro_stage_by_darksamus993_218
+    21300438: megaman_x1_intro_stage_by_darksamus993_219
+    21300440: megaman_x1_intro_stage_by_darksamus993_220
+    21300442: megaman_x1_intro_stage_by_darksamus993_221
+    21300444: megaman_x1_intro_stage_by_darksamus993_222
+    21300446: megaman_x1_intro_stage_by_darksamus993_223
+    21300448: megaman_x1_intro_stage_by_darksamus993_224
+    21300450: megaman_x1_intro_stage_by_darksamus993_225
+    21300452: megaman_x1_intro_stage_by_darksamus993_226
+    21300454: megaman_x1_intro_stage_by_darksamus993_227
+    21300456: megaman_x1_intro_stage_by_darksamus993_228
+    21300458: megaman_x1_intro_stage_by_darksamus993_229
+    21300460: megaman_x1_intro_stage_by_darksamus993_230
+    21300462: megaman_x1_intro_stage_by_darksamus993_231
+    21300464: megaman_x1_intro_stage_by_darksamus993_232
+    21300466: megaman_x1_intro_stage_by_darksamus993_233
+    21300468: megaman_x1_intro_stage_by_darksamus993_234
+    21300470: megaman_x1_intro_stage_by_darksamus993_235
+    21300472: megaman_x1_intro_stage_by_darksamus993_236
+    21300474: megaman_x1_intro_stage_by_darksamus993_237
+    21300476: megaman_x1_intro_stage_by_darksamus993_238
+    21300478: megaman_x1_intro_stage_by_darksamus993_239
+    21300480: megaman_x1_intro_stage_by_darksamus993_240
+    21300482: megaman_x1_intro_stage_by_darksamus993_241
+    21300484: megaman_x1_intro_stage_by_darksamus993_242
+    21300486: megaman_x1_intro_stage_by_darksamus993_243
+    21300488: megaman_x1_intro_stage_by_darksamus993_244
+    21300490: megaman_x1_intro_stage_by_darksamus993_245
+    21300492: megaman_x1_intro_stage_by_darksamus993_246
+    21300494: megaman_x1_intro_stage_by_darksamus993_247
+    21300496: megaman_x1_intro_stage_by_darksamus993_248
+    21300498: megaman_x1_intro_stage_by_darksamus993_249
+    21300500: megaman_x1_intro_stage_by_darksamus993_250
+    21300502: megaman_x1_intro_stage_by_darksamus993_251
+    21300504: megaman_x1_intro_stage_by_darksamus993_252
+    21300506: megaman_x1_intro_stage_by_darksamus993_253
+    21300508: megaman_x1_intro_stage_by_darksamus993_254
+    21300510: megaman_x1_intro_stage_by_darksamus993_255
+    21300512: megaman_x1_intro_stage_by_darksamus993_256
+    21300514: megaman_x1_intro_stage_by_darksamus993_257
+    21300516: megaman_x1_intro_stage_by_darksamus993_258
+    21300518: megaman_x1_intro_stage_by_darksamus993_259
+    21300520: megaman_x1_intro_stage_by_darksamus993_260
+    21300522: megaman_x1_intro_stage_by_darksamus993_261
+    21300524: megaman_x1_intro_stage_by_darksamus993_262
+    21300526: megaman_x1_intro_stage_by_darksamus993_263
+    21300528: megaman_x1_intro_stage_by_darksamus993_264
+    21300530: megaman_x1_intro_stage_by_darksamus993_265
+    21300532: megaman_x1_intro_stage_by_darksamus993_266
+    21300534: megaman_x1_intro_stage_by_darksamus993_267
+    21300536: megaman_x1_intro_stage_by_darksamus993_268
+    21300538: megaman_x1_intro_stage_by_darksamus993_269
+    21300540: megaman_x1_intro_stage_by_darksamus993_270
+    21300542: megaman_x1_intro_stage_by_darksamus993_271
+    21300544: megaman_x1_intro_stage_by_darksamus993_272
+    21300546: megaman_x1_intro_stage_by_darksamus993_273
+    21300548: megaman_x1_intro_stage_by_darksamus993_274
+    21300550: megaman_x1_intro_stage_by_darksamus993_275
+    21300552: megaman_x1_intro_stage_by_darksamus993_276
+    21300554: megaman_x1_intro_stage_by_darksamus993_277
+    21300556: megaman_x1_intro_stage_by_darksamus993_278
+    21300558: megaman_x1_intro_stage_by_darksamus993_279
+    21300560: megaman_x1_intro_stage_by_darksamus993_280
+    21300562: megaman_x1_intro_stage_by_darksamus993_281
+    21300564: megaman_x1_intro_stage_by_darksamus993_282
+    21300566: megaman_x1_intro_stage_by_darksamus993_283
+    21300568: megaman_x1_intro_stage_by_darksamus993_284
+    21300570: megaman_x1_intro_stage_by_darksamus993_285
+    21300572: megaman_x1_intro_stage_by_darksamus993_286
+    21300574: megaman_x1_intro_stage_by_darksamus993_287
+    21300576: megaman_x1_intro_stage_by_darksamus993_288
+    21300578: megaman_x1_intro_stage_by_darksamus993_289
+    21300580: megaman_x1_intro_stage_by_darksamus993_290
+    21300582: megaman_x1_intro_stage_by_darksamus993_291
+    21300584: megaman_x1_intro_stage_by_darksamus993_292
+    21300586: megaman_x1_intro_stage_by_darksamus993_293
+    21300588: megaman_x1_intro_stage_by_darksamus993_294
+    21300590: megaman_x1_intro_stage_by_darksamus993_295
+    21300592: megaman_x1_intro_stage_by_darksamus993_296
+    21300594: megaman_x1_intro_stage_by_darksamus993_297
+    21300596: megaman_x1_intro_stage_by_darksamus993_298
+    21300598: megaman_x1_intro_stage_by_darksamus993_299
+    21300600: megaman_x1_intro_stage_by_darksamus993_300
+    21300602: megaman_x1_intro_stage_by_darksamus993_301
+    21300604: megaman_x1_intro_stage_by_darksamus993_302
+    21300606: megaman_x1_intro_stage_by_darksamus993_303
+    21300608: megaman_x1_intro_stage_by_darksamus993_304
+    21300610: megaman_x1_intro_stage_by_darksamus993_305
+    21300612: megaman_x1_intro_stage_by_darksamus993_306
+    21300614: megaman_x1_intro_stage_by_darksamus993_307
+    21300616: megaman_x1_intro_stage_by_darksamus993_308
+    21300618: megaman_x1_intro_stage_by_darksamus993_309
+    21300620: megaman_x1_intro_stage_by_darksamus993_310
+    21300622: megaman_x1_intro_stage_by_darksamus993_311
+    21300624: megaman_x1_intro_stage_by_darksamus993_312
+    21300626: megaman_x1_intro_stage_by_darksamus993_313
+    21300628: megaman_x1_intro_stage_by_darksamus993_314
+    21300630: megaman_x1_intro_stage_by_darksamus993_315
+    21300632: megaman_x1_intro_stage_by_darksamus993_316
+    21300634: megaman_x1_intro_stage_by_darksamus993_317
+    21300636: megaman_x1_intro_stage_by_darksamus993_318
+    21300638: megaman_x1_intro_stage_by_darksamus993_319
+    21300640: megaman_x1_intro_stage_by_darksamus993_320
+    21300642: megaman_x1_intro_stage_by_darksamus993_321
+    21300644: megaman_x1_intro_stage_by_darksamus993_322
+    21300646: megaman_x1_intro_stage_by_darksamus993_323
+    21300648: megaman_x1_intro_stage_by_darksamus993_324
+    21300650: megaman_x1_intro_stage_by_darksamus993_325
+    21300652: megaman_x1_intro_stage_by_darksamus993_326
+    21300654: megaman_x1_intro_stage_by_darksamus993_327
+    21300656: megaman_x1_intro_stage_by_darksamus993_328
+    21300658: megaman_x1_intro_stage_by_darksamus993_329
+    21300660: megaman_x1_intro_stage_by_darksamus993_330
+    21300662: megaman_x1_intro_stage_by_darksamus993_331
+    21300664: megaman_x1_intro_stage_by_darksamus993_332
+    21300666: megaman_x1_intro_stage_by_darksamus993_333
+    21300668: megaman_x1_intro_stage_by_darksamus993_334
+    21300670: megaman_x1_intro_stage_by_darksamus993_335
+    21300672: megaman_x1_intro_stage_by_darksamus993_336
+    21300674: megaman_x1_intro_stage_by_darksamus993_337
+    21300676: megaman_x1_intro_stage_by_darksamus993_338
+    21300678: megaman_x1_intro_stage_by_darksamus993_339
+    21300680: megaman_x1_intro_stage_by_darksamus993_340
+    21300682: megaman_x1_intro_stage_by_darksamus993_341
+    21300684: megaman_x1_intro_stage_by_darksamus993_342
+    21300686: megaman_x1_intro_stage_by_darksamus993_343
+    21300688: megaman_x1_intro_stage_by_darksamus993_344
+    21300690: megaman_x1_intro_stage_by_darksamus993_345
+    21300692: megaman_x1_intro_stage_by_darksamus993_346
+    21300694: megaman_x1_intro_stage_by_darksamus993_347
+    21300696: megaman_x1_intro_stage_by_darksamus993_348
+    21300698: megaman_x1_intro_stage_by_darksamus993_349
+    21300700: megaman_x1_intro_stage_by_darksamus993_350
+    21300702: megaman_x1_intro_stage_by_darksamus993_351
+    21300704: megaman_x1_intro_stage_by_darksamus993_352
+    21300706: megaman_x1_intro_stage_by_darksamus993_353
+    21300708: megaman_x1_intro_stage_by_darksamus993_354
+    21300710: megaman_x1_intro_stage_by_darksamus993_355
+    21300712: megaman_x1_intro_stage_by_darksamus993_356
+    21300714: megaman_x1_intro_stage_by_darksamus993_357
+    21300716: megaman_x1_intro_stage_by_darksamus993_358
+    21300718: megaman_x1_intro_stage_by_darksamus993_359
+    21300720: megaman_x1_intro_stage_by_darksamus993_360
+    21300722: megaman_x1_intro_stage_by_darksamus993_361
+    21300724: megaman_x1_intro_stage_by_darksamus993_362
+    21300726: megaman_x1_intro_stage_by_darksamus993_363
+    21300728: megaman_x1_intro_stage_by_darksamus993_364
+    21300730: megaman_x1_intro_stage_by_darksamus993_365
+    21300732: megaman_x1_intro_stage_by_darksamus993_366
+    21300734: megaman_x1_intro_stage_by_darksamus993_367
+    21300736: megaman_x1_intro_stage_by_darksamus993_368
+    21300738: megaman_x1_intro_stage_by_darksamus993_369
+    21300740: megaman_x1_intro_stage_by_darksamus993_370
+    21300742: megaman_x1_intro_stage_by_darksamus993_371
+    21300744: megaman_x1_intro_stage_by_darksamus993_372
+    21300746: megaman_x1_intro_stage_by_darksamus993_373
+    21300748: megaman_x1_intro_stage_by_darksamus993_374
+    21300750: megaman_x1_intro_stage_by_darksamus993_375
+    21300752: megaman_x1_intro_stage_by_darksamus993_376
+    21300754: megaman_x1_intro_stage_by_darksamus993_377
+    21300756: megaman_x1_intro_stage_by_darksamus993_378
+    21300758: megaman_x1_intro_stage_by_darksamus993_379
+    21300760: megaman_x1_intro_stage_by_darksamus993_380
+    21300762: megaman_x1_intro_stage_by_darksamus993_381
+    21300764: megaman_x1_intro_stage_by_darksamus993_382
+    21300766: megaman_x1_intro_stage_by_darksamus993_383
+    21300768: megaman_x1_intro_stage_by_darksamus993_384
+    21300770: megaman_x1_intro_stage_by_darksamus993_385
+    21300772: megaman_x1_intro_stage_by_darksamus993_386
+    21300774: megaman_x1_intro_stage_by_darksamus993_387
+    21300776: megaman_x1_intro_stage_by_darksamus993_388
+    21300778: megaman_x1_intro_stage_by_darksamus993_389
+    21300780: megaman_x1_intro_stage_by_darksamus993_390
+    21300782: megaman_x1_intro_stage_by_darksamus993_391
+    21300784: megaman_x1_intro_stage_by_darksamus993_392
+    21300786: megaman_x1_intro_stage_by_darksamus993_393
+    21300788: megaman_x1_intro_stage_by_darksamus993_394
+    21300790: megaman_x1_intro_stage_by_darksamus993_395
+    21300792: megaman_x1_intro_stage_by_darksamus993_396
+    21300794: megaman_x1_intro_stage_by_darksamus993_397
+    21300796: megaman_x1_intro_stage_by_darksamus993_398
+    21300798: megaman_x1_intro_stage_by_darksamus993_399
+    21300800: megaman_x1_intro_stage_by_darksamus993_400
+    21300802: megaman_x1_intro_stage_by_darksamus993_401
+    21300804: megaman_x1_intro_stage_by_darksamus993_402
+    21300806: megaman_x1_intro_stage_by_darksamus993_403
+    21300808: megaman_x1_intro_stage_by_darksamus993_404
+    21300810: megaman_x1_intro_stage_by_darksamus993_405
+    21300812: megaman_x1_intro_stage_by_darksamus993_406
+    21300814: megaman_x1_intro_stage_by_darksamus993_407
+    21300816: megaman_x1_intro_stage_by_darksamus993_408
+    21300818: megaman_x1_intro_stage_by_darksamus993_409
+    21300820: megaman_x1_intro_stage_by_darksamus993_410
+    21300822: megaman_x1_intro_stage_by_darksamus993_411
+    21300824: megaman_x1_intro_stage_by_darksamus993_412
+    21300826: megaman_x1_intro_stage_by_darksamus993_413
+    21300828: megaman_x1_intro_stage_by_darksamus993_414
+    21300830: megaman_x1_intro_stage_by_darksamus993_415
+    21300832: megaman_x1_intro_stage_by_darksamus993_416
+    21300834: megaman_x1_intro_stage_by_darksamus993_417
+    21300836: megaman_x1_intro_stage_by_darksamus993_418
+    21300838: megaman_x1_intro_stage_by_darksamus993_419
+    21300840: megaman_x1_intro_stage_by_darksamus993_420
+    21300842: megaman_x1_intro_stage_by_darksamus993_421
+    21300844: megaman_x1_intro_stage_by_darksamus993_422
+    21300846: megaman_x1_intro_stage_by_darksamus993_423
+    21300848: megaman_x1_intro_stage_by_darksamus993_424
+    21300850: megaman_x1_intro_stage_by_darksamus993_425
+    21300852: megaman_x1_intro_stage_by_darksamus993_426
+    21300854: megaman_x1_intro_stage_by_darksamus993_427
+    21300856: megaman_x1_intro_stage_by_darksamus993_428
+    21300858: megaman_x1_intro_stage_by_darksamus993_429
+    21300860: megaman_x1_intro_stage_by_darksamus993_430
+    21300862: megaman_x1_intro_stage_by_darksamus993_431
+    21300864: megaman_x1_intro_stage_by_darksamus993_432
+    21300866: megaman_x1_intro_stage_by_darksamus993_433
+    21300868: megaman_x1_intro_stage_by_darksamus993_434
+    21300870: megaman_x1_intro_stage_by_darksamus993_435
+    21300872: megaman_x1_intro_stage_by_darksamus993_436
+    21300874: megaman_x1_intro_stage_by_darksamus993_437
+    21300876: megaman_x1_intro_stage_by_darksamus993_438
+    21300878: megaman_x1_intro_stage_by_darksamus993_439
+    21300880: megaman_x1_intro_stage_by_darksamus993_440
+    21300882: megaman_x1_intro_stage_by_darksamus993_441
+    21300884: megaman_x1_intro_stage_by_darksamus993_442
+    21300886: megaman_x1_intro_stage_by_darksamus993_443
+    21300888: megaman_x1_intro_stage_by_darksamus993_444
+    21300890: megaman_x1_intro_stage_by_darksamus993_445
+    21300892: megaman_x1_intro_stage_by_darksamus993_446
+    21300894: megaman_x1_intro_stage_by_darksamus993_447
+    21300896: megaman_x1_intro_stage_by_darksamus993_448
+    21300898: megaman_x1_intro_stage_by_darksamus993_449
+    21300900: megaman_x1_intro_stage_by_darksamus993_450
+    21300902: megaman_x1_intro_stage_by_darksamus993_451
+    21300904: megaman_x1_intro_stage_by_darksamus993_452
+    21300906: megaman_x1_intro_stage_by_darksamus993_453
+    21300908: megaman_x1_intro_stage_by_darksamus993_454
+    21300910: megaman_x1_intro_stage_by_darksamus993_455
+    21300912: megaman_x1_intro_stage_by_darksamus993_456
+    21300914: megaman_x1_intro_stage_by_darksamus993_457
+    21300916: megaman_x1_intro_stage_by_darksamus993_458
+    21300918: megaman_x1_intro_stage_by_darksamus993_459
+    21300920: megaman_x1_intro_stage_by_darksamus993_460
+    21300922: megaman_x1_intro_stage_by_darksamus993_461
+    21300924: megaman_x1_intro_stage_by_darksamus993_462
+    21300926: megaman_x1_intro_stage_by_darksamus993_463
+    21300928: megaman_x1_intro_stage_by_darksamus993_464
+    21300930: megaman_x1_intro_stage_by_darksamus993_465
+    21300932: megaman_x1_intro_stage_by_darksamus993_466
+    21300934: megaman_x1_intro_stage_by_darksamus993_467
+    21300936: megaman_x1_intro_stage_by_darksamus993_468
+    21300938: megaman_x1_intro_stage_by_darksamus993_469
+    21300940: megaman_x1_intro_stage_by_darksamus993_470
+    21300942: megaman_x1_intro_stage_by_darksamus993_471
+    21300944: megaman_x1_intro_stage_by_darksamus993_472
+    21300946: megaman_x1_intro_stage_by_darksamus993_473
+    21300948: megaman_x1_intro_stage_by_darksamus993_474
+    21300950: megaman_x1_intro_stage_by_darksamus993_475
+    21300952: megaman_x1_intro_stage_by_darksamus993_476
+    21300954: megaman_x1_intro_stage_by_darksamus993_477
+    21300956: megaman_x1_intro_stage_by_darksamus993_478
+    21300958: megaman_x1_intro_stage_by_darksamus993_479
+    21300960: megaman_x1_intro_stage_by_darksamus993_480
+    21300962: megaman_x1_intro_stage_by_darksamus993_481
+    21300964: megaman_x1_intro_stage_by_darksamus993_482
+    21300966: megaman_x1_intro_stage_by_darksamus993_483
+    21300968: megaman_x1_intro_stage_by_darksamus993_484
+    21300970: megaman_x1_intro_stage_by_darksamus993_485
+    21300972: megaman_x1_intro_stage_by_darksamus993_486
+    21300974: megaman_x1_intro_stage_by_darksamus993_487
+    21300976: megaman_x1_intro_stage_by_darksamus993_488
+    21300978: megaman_x1_intro_stage_by_darksamus993_489
+    21300980: megaman_x1_intro_stage_by_darksamus993_490
+    21300982: megaman_x1_intro_stage_by_darksamus993_491
+    21300984: megaman_x1_intro_stage_by_darksamus993_492
+    21300986: megaman_x1_intro_stage_by_darksamus993_493
+    21300988: megaman_x1_intro_stage_by_darksamus993_494
+    21300990: megaman_x1_intro_stage_by_darksamus993_495
+    21300992: megaman_x1_intro_stage_by_darksamus993_496
+    21300994: megaman_x1_intro_stage_by_darksamus993_497
+    21300996: megaman_x1_intro_stage_by_darksamus993_498
+    21300998: megaman_x1_intro_stage_by_darksamus993_499
+    21301000: megaman_x1_intro_stage_by_darksamus993_500
+    21301002: megaman_x1_intro_stage_by_darksamus993_501
+    21301004: megaman_x1_intro_stage_by_darksamus993_502
+    21301006: megaman_x1_intro_stage_by_darksamus993_503
+    21301008: megaman_x1_intro_stage_by_darksamus993_504
+    21301010: megaman_x1_intro_stage_by_darksamus993_505
+    21301012: megaman_x1_intro_stage_by_darksamus993_506
+    21301014: megaman_x1_intro_stage_by_darksamus993_507
+    21301016: megaman_x1_intro_stage_by_darksamus993_508
+    21301018: megaman_x1_intro_stage_by_darksamus993_509
+    21301020: megaman_x1_intro_stage_by_darksamus993_510
+    21301022: megaman_x1_intro_stage_by_darksamus993_511
+    21301024: megaman_x1_intro_stage_by_darksamus993_512
+    21301026: megaman_x1_intro_stage_by_darksamus993_513
+    21301028: megaman_x1_intro_stage_by_darksamus993_514
+    21301030: megaman_x1_intro_stage_by_darksamus993_515
+    21301032: megaman_x1_intro_stage_by_darksamus993_516
+    21301034: megaman_x1_intro_stage_by_darksamus993_517
+    21301036: megaman_x1_intro_stage_by_darksamus993_518
+    21301038: megaman_x1_intro_stage_by_darksamus993_519
+    21301040: megaman_x1_intro_stage_by_darksamus993_520
+    21301042: megaman_x1_intro_stage_by_darksamus993_521
+    21301044: megaman_x1_intro_stage_by_darksamus993_522
+    21301046: megaman_x1_intro_stage_by_darksamus993_523
+    21301048: megaman_x1_intro_stage_by_darksamus993_524
+    21301050: megaman_x1_intro_stage_by_darksamus993_525
+    21301052: megaman_x1_intro_stage_by_darksamus993_526
+    21301054: megaman_x1_intro_stage_by_darksamus993_527
+    21301056: megaman_x1_intro_stage_by_darksamus993_528
+    21301058: megaman_x1_intro_stage_by_darksamus993_529
+    21301060: megaman_x1_intro_stage_by_darksamus993_530
+    21301062: megaman_x1_intro_stage_by_darksamus993_531
+    21301064: megaman_x1_intro_stage_by_darksamus993_532
+    21301066: megaman_x1_intro_stage_by_darksamus993_533
+    21301068: megaman_x1_intro_stage_by_darksamus993_534
+    21301070: megaman_x1_intro_stage_by_darksamus993_535
+    21301072: megaman_x1_intro_stage_by_darksamus993_536
+    21301074: megaman_x1_intro_stage_by_darksamus993_537
+    21301076: megaman_x1_intro_stage_by_darksamus993_538
+    21301078: megaman_x1_intro_stage_by_darksamus993_539
+    21301080: megaman_x1_intro_stage_by_darksamus993_540
+    21301082: megaman_x1_intro_stage_by_darksamus993_541
+    21301084: megaman_x1_intro_stage_by_darksamus993_542
+    21301086: megaman_x1_intro_stage_by_darksamus993_543
+    21301088: megaman_x1_intro_stage_by_darksamus993_544
+    21301090: megaman_x1_intro_stage_by_darksamus993_545
+    21301092: megaman_x1_intro_stage_by_darksamus993_546
+    21301094: megaman_x1_intro_stage_by_darksamus993_547
+    21301096: megaman_x1_intro_stage_by_darksamus993_548
+    21301098: megaman_x1_intro_stage_by_darksamus993_549
+    21301100: megaman_x1_intro_stage_by_darksamus993_550
+    21301102: megaman_x1_intro_stage_by_darksamus993_551
+    21301104: megaman_x1_intro_stage_by_darksamus993_552
+    21301106: megaman_x1_intro_stage_by_darksamus993_553
+    21301108: megaman_x1_intro_stage_by_darksamus993_554
+    21301110: megaman_x1_intro_stage_by_darksamus993_555
+    21301112: megaman_x1_intro_stage_by_darksamus993_556
+    21301114: megaman_x1_intro_stage_by_darksamus993_557
+    21301116: megaman_x1_intro_stage_by_darksamus993_558
+    21301118: megaman_x1_intro_stage_by_darksamus993_559
+    21301120: megaman_x1_intro_stage_by_darksamus993_560
+    21301122: megaman_x1_intro_stage_by_darksamus993_561
+    21301124: megaman_x1_intro_stage_by_darksamus993_562
+    21301126: megaman_x1_intro_stage_by_darksamus993_563
+    21301128: megaman_x1_intro_stage_by_darksamus993_564
+    21301130: megaman_x1_intro_stage_by_darksamus993_565
+    21301132: megaman_x1_intro_stage_by_darksamus993_566
+    21301134: megaman_x1_intro_stage_by_darksamus993_567
+    21301136: megaman_x1_intro_stage_by_darksamus993_568
+    21301138: megaman_x1_intro_stage_by_darksamus993_569
+    21301140: megaman_x1_intro_stage_by_darksamus993_570
+    21301142: megaman_x1_intro_stage_by_darksamus993_571
+    21301144: megaman_x1_intro_stage_by_darksamus993_572
+    21301146: megaman_x1_intro_stage_by_darksamus993_573
+    21301148: megaman_x1_intro_stage_by_darksamus993_574
+    21301150: megaman_x1_intro_stage_by_darksamus993_575
+    21301152: megaman_x1_intro_stage_by_darksamus993_576
+    21301154: megaman_x1_intro_stage_by_darksamus993_577
+    21301156: megaman_x1_intro_stage_by_darksamus993_578
+    21301158: megaman_x1_intro_stage_by_darksamus993_579
+    21301160: megaman_x1_intro_stage_by_darksamus993_580
+    21301162: megaman_x1_intro_stage_by_darksamus993_581
+    21301164: megaman_x1_intro_stage_by_darksamus993_582
+    21301166: megaman_x1_intro_stage_by_darksamus993_583
+    21301168: megaman_x1_intro_stage_by_darksamus993_584
+    21301170: megaman_x1_intro_stage_by_darksamus993_585
+    21301172: megaman_x1_intro_stage_by_darksamus993_586
+    21301174: megaman_x1_intro_stage_by_darksamus993_587
+    21301176: megaman_x1_intro_stage_by_darksamus993_588
+    21301178: megaman_x1_intro_stage_by_darksamus993_589
+    21301180: megaman_x1_intro_stage_by_darksamus993_590
+    21301182: megaman_x1_intro_stage_by_darksamus993_591
+    21301184: megaman_x1_intro_stage_by_darksamus993_592
+    21301186: megaman_x1_intro_stage_by_darksamus993_593
+    21301188: megaman_x1_intro_stage_by_darksamus993_594
+    21301190: megaman_x1_intro_stage_by_darksamus993_595
+    21301192: megaman_x1_intro_stage_by_darksamus993_596
+    21301194: megaman_x1_intro_stage_by_darksamus993_597
+    21301196: megaman_x1_intro_stage_by_darksamus993_598
+    21301198: megaman_x1_intro_stage_by_darksamus993_599
+    21301200: megaman_x1_intro_stage_by_darksamus993_600
+    21301202: megaman_x1_intro_stage_by_darksamus993_601
+    21301204: megaman_x1_intro_stage_by_darksamus993_602
+    21301206: megaman_x1_intro_stage_by_darksamus993_603
+    21301208: megaman_x1_intro_stage_by_darksamus993_604
+    21301210: megaman_x1_intro_stage_by_darksamus993_605
+    21301212: megaman_x1_intro_stage_by_darksamus993_606
+    21301214: megaman_x1_intro_stage_by_darksamus993_607
+    21301216: megaman_x1_intro_stage_by_darksamus993_608
+    21301218: megaman_x1_intro_stage_by_darksamus993_609
+    21301220: megaman_x1_intro_stage_by_darksamus993_610
+    21301222: megaman_x1_intro_stage_by_darksamus993_611
+    21301224: megaman_x1_intro_stage_by_darksamus993_612
+    21301226: megaman_x1_intro_stage_by_darksamus993_613
+    21301228: megaman_x1_intro_stage_by_darksamus993_614
+    21301230: megaman_x1_intro_stage_by_darksamus993_615
+    21301232: megaman_x1_intro_stage_by_darksamus993_616
+    21301234: megaman_x1_intro_stage_by_darksamus993_617
+    21301236: megaman_x1_intro_stage_by_darksamus993_618
+    21301238: megaman_x1_intro_stage_by_darksamus993_619
+    21301240: megaman_x1_intro_stage_by_darksamus993_620
+    21301242: megaman_x1_intro_stage_by_darksamus993_621
+    21301244: megaman_x1_intro_stage_by_darksamus993_622
+    21301246: megaman_x1_intro_stage_by_darksamus993_623
+    21301248: megaman_x1_intro_stage_by_darksamus993_624
+    21301250: megaman_x1_intro_stage_by_darksamus993_625
+    21301252: megaman_x1_intro_stage_by_darksamus993_626
+    21301254: megaman_x1_intro_stage_by_darksamus993_627
+    21301256: megaman_x1_intro_stage_by_darksamus993_628
+    21301258: megaman_x1_intro_stage_by_darksamus993_629
+    21301260: megaman_x1_intro_stage_by_darksamus993_630
+    21301262: megaman_x1_intro_stage_by_darksamus993_631
+    21301264: megaman_x1_intro_stage_by_darksamus993_632
+    21301266: megaman_x1_intro_stage_by_darksamus993_633
+    21301268: megaman_x1_intro_stage_by_darksamus993_634
+    21301270: megaman_x1_intro_stage_by_darksamus993_635
+    21301272: megaman_x1_intro_stage_by_darksamus993_636
+    21301274: megaman_x1_intro_stage_by_darksamus993_637
+    21301276: megaman_x1_intro_stage_by_darksamus993_638
+    21301278: megaman_x1_intro_stage_by_darksamus993_639
+    21301280: megaman_x1_intro_stage_by_darksamus993_640
+    21301282: megaman_x1_intro_stage_by_darksamus993_641
+    21301284: megaman_x1_intro_stage_by_darksamus993_642
+    21301286: megaman_x1_intro_stage_by_darksamus993_643
+    21301288: megaman_x1_intro_stage_by_darksamus993_644
+    21301290: megaman_x1_intro_stage_by_darksamus993_645
+    21301292: megaman_x1_intro_stage_by_darksamus993_646
+    21301294: megaman_x1_intro_stage_by_darksamus993_647
+    21301296: megaman_x1_intro_stage_by_darksamus993_648
+    21301298: megaman_x1_intro_stage_by_darksamus993_649
+    21301300: megaman_x1_intro_stage_by_darksamus993_650
+    21301302: megaman_x1_intro_stage_by_darksamus993_651
+    21301304: megaman_x1_intro_stage_by_darksamus993_652
+    21301306: megaman_x1_intro_stage_by_darksamus993_653
+    21301308: megaman_x1_intro_stage_by_darksamus993_654
+    21301310: megaman_x1_intro_stage_by_darksamus993_655
+    21301312: megaman_x1_intro_stage_by_darksamus993_656
+    21301314: megaman_x1_intro_stage_by_darksamus993_657
+    21301316: megaman_x1_intro_stage_by_darksamus993_658
+    21301318: megaman_x1_intro_stage_by_darksamus993_659
+    21301320: megaman_x1_intro_stage_by_darksamus993_660
+    21301322: megaman_x1_intro_stage_by_darksamus993_661
+    21301324: megaman_x1_intro_stage_by_darksamus993_662
+    21301326: megaman_x1_intro_stage_by_darksamus993_663
+    21301328: megaman_x1_intro_stage_by_darksamus993_664
+    21301330: megaman_x1_intro_stage_by_darksamus993_665
+    21301332: megaman_x1_intro_stage_by_darksamus993_666
+    21301334: megaman_x1_intro_stage_by_darksamus993_667
+    21301336: megaman_x1_intro_stage_by_darksamus993_668
+    21301338: megaman_x1_intro_stage_by_darksamus993_669
+    21301340: megaman_x1_intro_stage_by_darksamus993_670
+    21301342: megaman_x1_intro_stage_by_darksamus993_671
+    21301344: megaman_x1_intro_stage_by_darksamus993_672
+    21301346: megaman_x1_intro_stage_by_darksamus993_673
+    21301348: megaman_x1_intro_stage_by_darksamus993_674
+    21301350: megaman_x1_intro_stage_by_darksamus993_675
+    21301352: megaman_x1_intro_stage_by_darksamus993_676
+    21301354: megaman_x1_intro_stage_by_darksamus993_677
+    21301356: megaman_x1_intro_stage_by_darksamus993_678
+    21301358: megaman_x1_intro_stage_by_darksamus993_679
+    21301360: megaman_x1_intro_stage_by_darksamus993_680
+    21301362: megaman_x1_intro_stage_by_darksamus993_681
+    21301364: megaman_x1_intro_stage_by_darksamus993_682
+    21301366: megaman_x1_intro_stage_by_darksamus993_683
+    21301368: megaman_x1_intro_stage_by_darksamus993_684
+    21301370: megaman_x1_intro_stage_by_darksamus993_685
+    21301372: megaman_x1_intro_stage_by_darksamus993_686
+    21301374: megaman_x1_intro_stage_by_darksamus993_687
+    21301376: megaman_x1_intro_stage_by_darksamus993_688
+    21301378: megaman_x1_intro_stage_by_darksamus993_689
+    21301380: megaman_x1_intro_stage_by_darksamus993_690
+    21301382: megaman_x1_intro_stage_by_darksamus993_691
+    21301384: megaman_x1_intro_stage_by_darksamus993_692
+    21301386: megaman_x1_intro_stage_by_darksamus993_693
+    21301388: megaman_x1_intro_stage_by_darksamus993_694
+    21301390: megaman_x1_intro_stage_by_darksamus993_695
+    21301392: megaman_x1_intro_stage_by_darksamus993_696
+    21301394: megaman_x1_intro_stage_by_darksamus993_697
+    21301396: megaman_x1_intro_stage_by_darksamus993_698
+    21301398: megaman_x1_intro_stage_by_darksamus993_699
+    21301400: megaman_x1_intro_stage_by_darksamus993_700
+    21301402: megaman_x1_intro_stage_by_darksamus993_701
+    21301404: megaman_x1_intro_stage_by_darksamus993_702
+    21301406: megaman_x1_intro_stage_by_darksamus993_703
+    21301408: megaman_x1_intro_stage_by_darksamus993_704
+    21301410: megaman_x1_intro_stage_by_darksamus993_705
+    21301412: megaman_x1_intro_stage_by_darksamus993_706
+    21301414: megaman_x1_intro_stage_by_darksamus993_707
+    21301416: megaman_x1_intro_stage_by_darksamus993_708
+    21301418: megaman_x1_intro_stage_by_darksamus993_709
+    21301420: megaman_x1_intro_stage_by_darksamus993_710
+    21301422: megaman_x1_intro_stage_by_darksamus993_711
+    21301424: megaman_x1_intro_stage_by_darksamus993_712
+    21301426: megaman_x1_intro_stage_by_darksamus993_713
+    21301428: megaman_x1_intro_stage_by_darksamus993_714
+    21301430: megaman_x1_intro_stage_by_darksamus993_715
+    21301432: megaman_x1_intro_stage_by_darksamus993_716
+    21301434: megaman_x1_intro_stage_by_darksamus993_717
+    21301436: megaman_x1_intro_stage_by_darksamus993_718
+    21301438: megaman_x1_intro_stage_by_darksamus993_719
+    21301440: megaman_x1_intro_stage_by_darksamus993_720
+    21301442: megaman_x1_intro_stage_by_darksamus993_721
+    21301444: megaman_x1_intro_stage_by_darksamus993_722
+    21301446: megaman_x1_intro_stage_by_darksamus993_723
+    21301448: megaman_x1_intro_stage_by_darksamus993_724
+    21301450: megaman_x1_intro_stage_by_darksamus993_725
+    21301452: megaman_x1_intro_stage_by_darksamus993_726
+    21301454: megaman_x1_intro_stage_by_darksamus993_727
+    21301456: megaman_x1_intro_stage_by_darksamus993_728
+    21301458: megaman_x1_intro_stage_by_darksamus993_729
+    21301460: megaman_x1_intro_stage_by_darksamus993_730
+    21301462: megaman_x1_intro_stage_by_darksamus993_731
+    21301464: megaman_x1_intro_stage_by_darksamus993_732
+    21301466: megaman_x1_intro_stage_by_darksamus993_733
+    21301468: megaman_x1_intro_stage_by_darksamus993_734
+    21301470: megaman_x1_intro_stage_by_darksamus993_735
+    21301472: megaman_x1_intro_stage_by_darksamus993_736
+    21301474: megaman_x1_intro_stage_by_darksamus993_737
+    21301476: megaman_x1_intro_stage_by_darksamus993_738
+    21301478: megaman_x1_intro_stage_by_darksamus993_739
+    21301480: megaman_x1_intro_stage_by_darksamus993_740
+    21301482: megaman_x1_intro_stage_by_darksamus993_741
+    21301484: megaman_x1_intro_stage_by_darksamus993_742
+    21301486: megaman_x1_intro_stage_by_darksamus993_743
+    21301488: megaman_x1_intro_stage_by_darksamus993_744
+    21301490: megaman_x1_intro_stage_by_darksamus993_745
+    21301492: megaman_x1_intro_stage_by_darksamus993_746
+    21301494: megaman_x1_intro_stage_by_darksamus993_747
+    21301496: megaman_x1_intro_stage_by_darksamus993_748
+    21301498: megaman_x1_intro_stage_by_darksamus993_749
+    21301500: megaman_x1_intro_stage_by_darksamus993_750
+    21301502: megaman_x1_intro_stage_by_darksamus993_751
+    21301504: megaman_x1_intro_stage_by_darksamus993_752
+    21301506: megaman_x1_intro_stage_by_darksamus993_753
+    21301508: megaman_x1_intro_stage_by_darksamus993_754
+    21301510: megaman_x1_intro_stage_by_darksamus993_755
+    21301512: megaman_x1_intro_stage_by_darksamus993_756
+    21301514: megaman_x1_intro_stage_by_darksamus993_757
+    21301516: megaman_x1_intro_stage_by_darksamus993_758
+    21301518: megaman_x1_intro_stage_by_darksamus993_759
+    21301520: megaman_x1_intro_stage_by_darksamus993_760
+    21301522: megaman_x1_intro_stage_by_darksamus993_761
+    21301524: megaman_x1_intro_stage_by_darksamus993_762
+    21301526: megaman_x1_intro_stage_by_darksamus993_763
+    21301528: megaman_x1_intro_stage_by_darksamus993_764
+    21301530: megaman_x1_intro_stage_by_darksamus993_765
+    21301532: megaman_x1_intro_stage_by_darksamus993_766
+    21301534: megaman_x1_intro_stage_by_darksamus993_767
+    21301536: megaman_x1_intro_stage_by_darksamus993_768
+    21301538: megaman_x1_intro_stage_by_darksamus993_769
+    21301540: megaman_x1_intro_stage_by_darksamus993_770
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 592
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff31618d0e3ca541b1d758d5b8a6db8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 592
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999155a816f6427459fa6deca548243c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 592
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134ef88f19b8e2841a9b42eeb99f3de7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 592
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd3d6ee8cd31394d84bff2af90eeed8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 592
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186ede0b3839ab84b96db4582dad4a5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 592
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699077f0f65632245bdd8b9f78174757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_6
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 592
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3921f046469c807449ef0f7a7c24bd16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_7
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 592
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7b1ebec0de579428a87f24dcb48c0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_8
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 592
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931935c1d48f7e04c98aa4a985f89171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_9
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 592
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676daa6fcd0c7a44490911942e3f0c0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_10
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 592
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8ce74a6f5275344a694addd12ecc5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_11
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 592
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5b84f1d52792c49bcf0d36f884f585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_12
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 592
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670bd2987986fbb4d83c7778069298c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_13
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 592
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ad83269bdccc043a04926e06d414f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_14
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 592
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02cc3cae19dd8840a6601e0c5471fb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_15
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 592
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e52c5423bf69949a5f798f7884ce1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_16
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 592
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4319c05c37d914947918f8c4f64c9603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_17
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 592
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4cb0dd673b75694694af4849f0d299d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_18
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 592
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6ff218bd75b424a82e96f7f3096816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_19
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 592
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21eff2101ac1a6e4e807a92806180da7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_20
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 592
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7616660b5c71e9d41bef36e0b0c26345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_21
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 592
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ef9b9a53ba13b489f580a99a6d9213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_22
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 592
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14946a25f078dd4783752bab4797301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_23
+      rect:
+        serializedVersion: 2
+        x: 5888
+        y: 592
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1489be392ff39b48ae53cc3ddc53442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_24
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 592
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9061cb6dd95d4045990ffcd1118e273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_25
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 592
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf973508b0ef3b34e86ae8093abe65a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_26
+      rect:
+        serializedVersion: 2
+        x: 6656
+        y: 592
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d743367b73bd7174d80143678876b788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_27
+      rect:
+        serializedVersion: 2
+        x: 6912
+        y: 592
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e315bfa5657a3d4aaf00a824a7a5deb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_28
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 592
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4309f131c94673649bc2bfcbd4c398ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_29
+      rect:
+        serializedVersion: 2
+        x: 7424
+        y: 592
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c195f04851c4cf34dadc1f4ceee5edcb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1822ec53237a96a4dbc4a4c0350a83c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 336
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb1d95645ff9a6428aa17d0c0fcaeab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_32
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 336
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2799a71c96c246d4db32efcde5e6f2d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_33
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 336
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be06d6911adbd3c40bdfe3d288582a67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_34
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 336
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69de3de8a6ad0004e9eb4fa44e27d302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_35
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 336
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aef97e8ed6d86941a8c135be2a0113a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_36
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 336
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6154a3048ab21054f98f15c63b9a02ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_37
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 336
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99d23be2da12ae4b9cb39b80fc45e62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_38
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 336
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec45e91306510a040bd3a96e8cd99953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_39
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 336
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87739ceb77fa3f047980775f1fe1e783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_40
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 336
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9193585dd38eed6448e83b6e27eba319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_41
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 336
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2708a5b9898f644ca3853f6704f03ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_42
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 336
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74191ba6bed78545bd20150103f8b45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_43
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 336
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64ecf64778a61d4ba66c6b045e2513c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_44
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 336
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c33719dc1e98749a223afe75a7226a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_45
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 336
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398e6663a4868e64aa6d8fd28507b332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_46
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 336
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e813608bc01834d8f118b43718c77e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_47
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 336
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04bb8bdb2474ffa4285aac225665cee4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a60d7bc407e8c44e956d1bb7f4a595b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_49
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 80
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969cb5a9a9d7ced44b07408eefe34a37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_50
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 80
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7375ff6b595a88b4db9d049a4c608b1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_51
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 80
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7512ecb921c1543b879ae6ac3f2ccd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_52
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 80
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197926ff5784cfd47a19be384051a280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_53
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 80
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b225981e62342d144b2db8a633ccf168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_54
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 80
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2163b6382e5914e8cf718be0263ded
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_55
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 80
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9317b15d9c5f4d438f98dbe208207e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_56
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 80
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc0168925ff3974f88f4b7cbd80ad73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_57
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 80
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4249d850326af87489c9e360228bc07e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_58
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 80
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f4deaee4da4634f992b33fc9c4040d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_59
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 80
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d95697b24944146bd5bdee494ece5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_60
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 80
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82ef6d1da9bc9949872a058abea0235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_61
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 80
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f7d001bd9ad0d4bb49eb5fd2e1ca57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6561ab789a1422a498a0d6b22f0a5139
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
