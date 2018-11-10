@@ -16,15 +16,19 @@ public class MegamanX : MonoBehaviour {
     private bool ground = false;
     private bool moving = false;
     private bool jump = false;
-    private  bool buster = false;
+    private bool buster = false;
 
     private int hp = 10;
 
     private float cargandobuster = 0;
+    public enum Direccion { l, r }
+    public Direccion  Xdireccion = Direccion.r;
 
     public GameObject buster0;
+    public GameObject buster1;
+    public GameObject buster2;
 
-
+    public Transform playerLocation;
     void Start () {
         
         spriterenderer = GetComponent<SpriteRenderer>();
@@ -45,12 +49,14 @@ public class MegamanX : MonoBehaviour {
         {
             spriterenderer.flipX = true;
             vx = 1;
+            Xdireccion = Direccion.r;
             moving = true;
         }
         else if (Input.GetKey(KeyCode.LeftArrow))
         {
             spriterenderer.flipX = false;
             vx = -1;
+            Xdireccion = Direccion.l;
             moving = true;
         }
 
@@ -65,11 +71,69 @@ public class MegamanX : MonoBehaviour {
         if (Input.GetKey(KeyCode.X))
         {
             buster = true;
-            cargandobuster = cargandobuster + dt;
+            
+            
         }
+        else if (Input.GetKeyUp(KeyCode.X))
+        {
+            buster = false;
+            anim.SetBool("buster", false);
 
+            if (cargandobuster > 0)
+            {
+                //disparar 
+                if (cargandobuster < 1)
+                {
+                    //carga amarilla
+                    dispararbullet_1 buster_0 = buster0.GetComponent<dispararbullet_1>();
+                    if (Xdireccion == Direccion.r)
+                    {
+                        buster_0.DireccionArma = dispararbullet_1.Direccion.r;
+                    }
+                    else
+                    {
+                        buster_0.DireccionArma = dispararbullet_1.Direccion.l;
+                    }
 
-        rb.velocity = new Vector2(vx * speedx * dt, rb.velocity.y);
+                    Instantiate(buster_0, playerLocation.position, playerLocation.rotation);
+                }
+                else if (cargandobuster < 2 && cargandobuster >= 1)
+                {
+                    //carga verde
+                    dispararbullet_2 buster_1 = buster1.GetComponent<dispararbullet_2>();
+                    if (Xdireccion == Direccion.r)
+                    {
+                        buster_1.DireccionArma = dispararbullet_2.Direccion.r;
+                    }
+                    else
+                    {
+                        buster_1.DireccionArma = dispararbullet_2.Direccion.l;
+                    }
+
+                    Instantiate(buster_1, playerLocation.position, playerLocation.rotation);
+                }
+                else 
+                {
+                    //carga azul
+                    dispararbullet_3 buster_2 = buster2.GetComponent<dispararbullet_3>();
+                    if (Xdireccion == Direccion.r)
+                    {
+                        buster_2.DireccionArma = dispararbullet_3.Direccion.r;
+                    }
+                    else
+                    {
+                        buster_2.DireccionArma = dispararbullet_3.Direccion.l;
+                    }
+
+                    Instantiate(buster_2, playerLocation.position, playerLocation.rotation);
+                }
+            }
+
+            cargandobuster = 0;
+        }
+            
+
+                rb.velocity = new Vector2(vx * speedx * dt, rb.velocity.y);
 
         if(moving)
         {
@@ -88,37 +152,14 @@ public class MegamanX : MonoBehaviour {
         if(buster==true)
         {
             anim.SetBool("buster", true);
-        }
-        else if(buster==false)
-        {
-            anim.SetBool("buster", false);
-            if(cargandobuster<0)
-            {
-                //disparar 
-                if(cargandobuster<1)
-                {
-                    //carga verde
-                }
-                else if(cargandobuster<2)
-                {
-                    //carga azul
-                }
-                else
-                {
-                    //carga amarilla
-                    //ArmaArrojadiza scriptShuriken = ShurikenPrefab.GetComponent<ArmaArrojadiza>();
-                    dispararbullet_1 buster_d0 = buster0.GetComponent<dispararbullet_1>();
-                    Instantiate(buster0, transform.position, Quaternion.identity);
-
-                }
-            }
+            cargandobuster = cargandobuster + dt;
         }
 
     }
 
     void OnCollisionEnter2D(Collision2D coll)
     {
-        if (coll.gameObject.name == "plataforma")
+        if (coll.gameObject.layer == 8)
         {
             ground = true;
             jump = false;
