@@ -21,12 +21,12 @@ public class dispararbullet_3 : MonoBehaviour {
         if (DireccionArma == Direccion.l)
         {
             speedx = -400;
-            spriterenderer.flipX = false;
+            spriterenderer.flipX = true;
         }
         else
         {
             speedx = 400;
-            spriterenderer.flipX = true;
+            spriterenderer.flipX = false;
         }
     }
 	

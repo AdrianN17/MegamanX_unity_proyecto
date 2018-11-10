@@ -17,6 +17,7 @@ public class MegamanX : MonoBehaviour {
     private bool moving = false;
     private bool jump = false;
     private bool buster = false;
+    private bool dash =false;
 
     private int hp = 10;
 
@@ -41,20 +42,21 @@ public class MegamanX : MonoBehaviour {
 
         dt = Time.deltaTime;
         vx = 0;
+        speedx = 200;
         moving = false;
         buster = false;
 
 
         if (Input.GetKey(KeyCode.RightArrow))
         {
-            spriterenderer.flipX = true;
+            spriterenderer.flipX = false;
             vx = 1;
             Xdireccion = Direccion.r;
             moving = true;
         }
         else if (Input.GetKey(KeyCode.LeftArrow))
         {
-            spriterenderer.flipX = false;
+            spriterenderer.flipX = true;
             vx = -1;
             Xdireccion = Direccion.l;
             moving = true;
@@ -68,16 +70,33 @@ public class MegamanX : MonoBehaviour {
 
         }
 
+        if (Input.GetKey(KeyCode.Z) && dash==false && ground)
+        {
+            speedx = 500;
+            if (Xdireccion == Direccion.r)
+            {
+                vx = 1;
+            }
+            else
+            {
+                vx = -1;
+            }
+            anim.SetTrigger("dash");
+            dash = true;
+        }
+        else if(Input.GetKeyUp(KeyCode.Z))
+        {
+            dash = false;
+        }
+
         if (Input.GetKey(KeyCode.X))
         {
-            buster = true;
-            
-            
+            buster = true;    
         }
         else if (Input.GetKeyUp(KeyCode.X))
         {
             buster = false;
-            anim.SetBool("buster", false);
+            anim.SetTrigger("buster");
 
             if (cargandobuster > 0)
             {
@@ -151,7 +170,6 @@ public class MegamanX : MonoBehaviour {
 
         if(buster==true)
         {
-            anim.SetBool("buster", true);
             cargandobuster = cargandobuster + dt;
         }
 
