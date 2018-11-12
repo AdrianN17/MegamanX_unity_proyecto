@@ -11,7 +11,6 @@ public class MegamanX : MonoBehaviour {
     private Rigidbody2D rb;
 
     private float speedx = 200;
-    private float vx = 0;
 
     private bool ground = false;
     private bool moving = false;
@@ -39,10 +38,7 @@ public class MegamanX : MonoBehaviour {
 
     void Update() {
 
-
         dt = Time.deltaTime;
-        vx = 0;
-        speedx = 200;
         moving = false;
         buster = false;
 
@@ -50,21 +46,21 @@ public class MegamanX : MonoBehaviour {
         if (Input.GetKey(KeyCode.RightArrow))
         {
             spriterenderer.flipX = false;
-            vx = 1;
             Xdireccion = Direccion.r;
             moving = true;
+            rb.velocity = new Vector2(speedx * dt, rb.velocity.y);
         }
         else if (Input.GetKey(KeyCode.LeftArrow))
         {
             spriterenderer.flipX = true;
-            vx = -1;
             Xdireccion = Direccion.l;
             moving = true;
+            rb.velocity = new Vector2(-1*speedx * dt, rb.velocity.y);
         }
 
         if (Input.GetKey(KeyCode.UpArrow) && ground)
         {
-            rb.AddForce(new Vector2(rb.velocity.x, 12), ForceMode2D.Impulse);
+            rb.AddForce(new Vector2(rb.velocity.x, 8), ForceMode2D.Impulse);
             ground = false;
             jump = true;
 
@@ -72,14 +68,15 @@ public class MegamanX : MonoBehaviour {
 
         if (Input.GetKey(KeyCode.Z) && dash==false && ground)
         {
-            speedx = 500;
             if (Xdireccion == Direccion.r)
             {
-                vx = 1;
+                //rb.AddForce(new Vector2(5, rb.velocity.y), ForceMode2D.Impulse);
+                rb.velocity = new Vector2(500 * dt, rb.velocity.y);
             }
             else
             {
-                vx = -1;
+                //rb.AddForce(new Vector2(-5, rb.velocity.y), ForceMode2D.Impulse);
+                rb.velocity = new Vector2(-500 * dt, rb.velocity.y);
             }
             anim.SetTrigger("dash");
             dash = true;
@@ -152,7 +149,7 @@ public class MegamanX : MonoBehaviour {
         }
             
 
-                rb.velocity = new Vector2(vx * speedx * dt, rb.velocity.y);
+        rb.velocity = new Vector2(rb.velocity.x, rb.velocity.y);
 
         if(moving)
         {
