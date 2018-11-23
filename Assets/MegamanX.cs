@@ -177,10 +177,11 @@ public class MegamanX : MonoBehaviour {
         {
             contadordaño = contadordaño + dt;
 
-            if(contadordaño>1)
+            if(contadordaño>0.8)
             {
                 contadordaño = 0;
                 Physics2D.IgnoreLayerCollision(9, 12, false);
+                Physics2D.IgnoreLayerCollision(10, 12, false);
                 isdamaged = false;
             }
         }

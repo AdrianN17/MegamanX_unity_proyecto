@@ -1,6 +1,6 @@
 WindowsStandalone
 PlayerPath?
-C:/Users/adria/Desktop/Prueba_megamanx/MegamanX_unity.exe
+C:/Users/adria/Desktop/prueba_megamanx/MegamanX_unity.exe
 SceneListBegin?
 Assets/Scenes/SampleScene.unity
 SceneListEnd?
