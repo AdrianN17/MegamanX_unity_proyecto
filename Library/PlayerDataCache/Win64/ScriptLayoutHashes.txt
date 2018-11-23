@@ -1,6 +1,6 @@
 WindowsStandalone
 PlayerPath?
-C:/Users/adria/Desktop/prueba_megamanxunity/MegamanX_unity.exe
+C:/Users/adria/Desktop/Prueba_megamanx/MegamanX_unity.exe
 SceneListBegin?
 Assets/Scenes/SampleScene.unity
 SceneListEnd?
@@ -123,9 +123,9 @@ e1ea12ca952c81d81a9a21fdf34446ed UnityEngine.HoloLens.dll:UnityEngine.EventSyste
 dfd33ff9ae3ce8d7ca1f22b475ec2387 UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.SpatialMappingRenderer
 96f3ea9f23b6f08e60710ebb4af49174 Unity.TextMeshPro.dll:TMPro.TMP_SpriteAsset
 851f9a9bb964e8b26926e27013757eb6 Assembly-CSharp.dll:.bullet_destroy
-a9dd1a2d27e310003a16466bfb126d89 Assembly-CSharp.dll:.dispararbullet_1
+1605fd7fd58d35002229f690d38bfda1 Assembly-CSharp.dll:.dispararbullet_1
 f16835701e71dd5d6fb1fed4b7aff1d8 Unity.TextMeshPro.dll:TMPro.TMP_Asset
-a9dd1a2d27e310003a16466bfb126d89 Assembly-CSharp.dll:.dispararbullet_2
+1605fd7fd58d35002229f690d38bfda1 Assembly-CSharp.dll:.dispararbullet_2
 486cd95c82d8305219c352c06b776e1f Unity.TextMeshPro.dll:TMPro.TMP_SpriteAnimator
 eaf0bcdb10d442a4029d615f41d09957 Unity.TextMeshPro.dll:TMPro.TextContainer
 201273fb4f889724fb090164b7d6c657 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkAnimator
@@ -156,7 +156,8 @@ e033f131358cea5a0eabf9561e781deb UnityEngine.TestRunner.dll:UnityEngine.TestTool
 70f7dc248db3379548a88e8d4fa049f8 UnityEngine.GoogleAudioSpatializer.dll:UnityEngine.Experimental.Audio.Google.GvrAudioRoom
 28a95668dd28649297d595834fe8417e UnityEngine.GoogleAudioSpatializer.dll:UnityEngine.Experimental.Audio.Google.GvrAudioSoundfieldExtension
 28a95668dd28649297d595834fe8417e UnityEngine.GoogleAudioSpatializer.dll:UnityEngine.Experimental.Audio.Google.GvrAudioSourceExtension
-a9dd1a2d27e310003a16466bfb126d89 Assembly-CSharp.dll:.dispararbullet_3
+89dc1f3aaaf5b68644de02f7b399d349 Assembly-CSharp.dll:.e1
+1605fd7fd58d35002229f690d38bfda1 Assembly-CSharp.dll:.dispararbullet_3
 e4a74fdd0c908eac76b8abded59e2391 Assembly-CSharp.dll:.camera
 d75dc834c5dec688db75a55a1724c90f UnityEngine.HoloLens.dll:UnityEngine.Audio.AudioSpatializerMicrosoft
 486cd95c82d8305219c352c06b776e1f UnityEngine.HoloLens.dll:UnityEngine.EventSystems.HoloLensInput
@@ -166,6 +167,8 @@ dfd33ff9ae3ce8d7ca1f22b475ec2387 UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 aac9c55ae7ba4b95b852a7d9c191acd1 Unity.TextMeshPro.dll:TMPro.TextMeshProUGUI
 0a006f3734181ba8b26758f0866152c0 UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
 e04611b8715e6833d2bd7010fc6be10b Unity.TextMeshPro.dll:TMPro.TMP_StyleSheet
+486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.misiles
 2f9af06a78208a67db480e9bfed4a076 Unity.TextMeshPro.dll:TMPro.TextMeshPro
 9318334b30e9f195f573b2ce00154b95 Unity.TextMeshPro.dll:TMPro.TMP_ColorGradient
 93307bd34e39d73fd24e00ec39c25a91 Unity.TextMeshPro.dll:TMPro.TMP_SubMesh
+36dc3cb0910e593681673180a54baee2 Assembly-CSharp.dll:.e2
