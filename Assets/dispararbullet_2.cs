@@ -9,7 +9,7 @@ public class dispararbullet_2 : MonoBehaviour {
     private float speedx = 0;
     private Rigidbody2D rb;
     private SpriteRenderer spriterenderer;
-
+    public int daño = 2;
 
     public enum Direccion { l, r }
     public Direccion DireccionArma = Direccion.r;

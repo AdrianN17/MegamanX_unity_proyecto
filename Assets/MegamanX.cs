@@ -14,11 +14,13 @@ public class MegamanX : MonoBehaviour {
 
     private bool ground = false;
     private bool moving = false;
-    private bool jump = false;
     private bool buster = false;
     private bool dash =false;
+    private bool isdamaged = false;
 
     private int hp = 10;
+    private float contadordaño = 0;
+
 
     private float cargandobuster = 0;
     public enum Direccion { l, r }
@@ -28,6 +30,7 @@ public class MegamanX : MonoBehaviour {
     public GameObject buster1;
     public GameObject buster2;
 
+   
     public Transform playerLocation;
     void Start () {
         
@@ -58,11 +61,10 @@ public class MegamanX : MonoBehaviour {
             rb.velocity = new Vector2(-1*speedx * dt, rb.velocity.y);
         }
 
-        if (Input.GetKey(KeyCode.UpArrow) && ground)
+        if (Input.GetKey(KeyCode.X) && ground)
         {
-            rb.AddForce(new Vector2(rb.velocity.x, 8), ForceMode2D.Impulse);
+            rb.AddForce(new Vector2(rb.velocity.x/5, 8), ForceMode2D.Impulse);
             ground = false;
-            jump = true;
 
         }
 
@@ -71,12 +73,12 @@ public class MegamanX : MonoBehaviour {
             if (Xdireccion == Direccion.r)
             {
                 //rb.AddForce(new Vector2(5, rb.velocity.y), ForceMode2D.Impulse);
-                rb.velocity = new Vector2(500 * dt, rb.velocity.y);
+                rb.velocity = new Vector2(800 * dt, rb.velocity.y);
             }
             else
             {
                 //rb.AddForce(new Vector2(-5, rb.velocity.y), ForceMode2D.Impulse);
-                rb.velocity = new Vector2(-500 * dt, rb.velocity.y);
+                rb.velocity = new Vector2(-800 * dt, rb.velocity.y);
             }
             anim.SetTrigger("dash");
             dash = true;
@@ -86,11 +88,11 @@ public class MegamanX : MonoBehaviour {
             dash = false;
         }
 
-        if (Input.GetKey(KeyCode.X))
+        if (Input.GetKey(KeyCode.C))
         {
             buster = true;    
         }
-        else if (Input.GetKeyUp(KeyCode.X))
+        else if (Input.GetKeyUp(KeyCode.C))
         {
             buster = false;
             anim.SetTrigger("buster");
@@ -160,7 +162,7 @@ public class MegamanX : MonoBehaviour {
             anim.SetBool("correr", false);
         }
 
-        if(jump)
+        if(ground == false)
         {
             anim.SetBool("salto", true);
         }
@@ -170,6 +172,18 @@ public class MegamanX : MonoBehaviour {
             cargandobuster = cargandobuster + dt;
         }
 
+
+        if(isdamaged==true)
+        {
+            contadordaño = contadordaño + dt;
+
+            if(contadordaño>1)
+            {
+                contadordaño = 0;
+                Physics2D.IgnoreLayerCollision(9, 12, false);
+                isdamaged = false;
+            }
+        }
     }
 
     void OnCollisionEnter2D(Collision2D coll)
@@ -177,8 +191,27 @@ public class MegamanX : MonoBehaviour {
         if (coll.gameObject.layer == 8)
         {
             ground = true;
-            jump = false;
             anim.SetBool("salto", false);
+        }
+
+        if (coll.gameObject.layer == 9)
+        {
+            hp = hp - 1;
+            Debug.Log(hp);
+            Physics2D.IgnoreLayerCollision(9,12, true);
+            isdamaged = true;
+            cargandobuster = 0;
+            anim.SetTrigger("daño");
+        }
+
+        if (coll.gameObject.layer == 10)
+        {
+            hp = hp - 1;
+            Debug.Log(hp);
+            Physics2D.IgnoreLayerCollision(10, 12, true);
+            isdamaged = true;
+            cargandobuster = 0;
+            anim.SetTrigger("daño");
         }
     }
 

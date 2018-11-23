@@ -8,6 +8,7 @@ public class dispararbullet_3 : MonoBehaviour {
     private float speedx = 0;
     private Rigidbody2D rb;
     private SpriteRenderer spriterenderer;
+    public int daño = 5;
 
 
     public enum Direccion { l, r }
