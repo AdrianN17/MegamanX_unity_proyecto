@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using UnityEngine.UI;
 
 public class MegamanX : MonoBehaviour {
     private float dt = 0;
@@ -32,6 +32,10 @@ public class MegamanX : MonoBehaviour {
 
    
     public Transform playerLocation;
+
+    public Slider hpslider;
+
+
     void Start () {
         
         spriterenderer = GetComponent<SpriteRenderer>();
@@ -39,12 +43,13 @@ public class MegamanX : MonoBehaviour {
         anim = gameObject.GetComponent<Animator>();
     }
 
-    void Update() {
+    void FixedUpdate() {
 
         dt = Time.deltaTime;
         moving = false;
         buster = false;
 
+        hpslider.value = hp;
 
         if (Input.GetKey(KeyCode.RightArrow))
         {
@@ -65,27 +70,7 @@ public class MegamanX : MonoBehaviour {
         {
             rb.AddForce(new Vector2(rb.velocity.x/5, 8), ForceMode2D.Impulse);
             ground = false;
-
-        }
-
-        if (Input.GetKey(KeyCode.Z) && dash==false && ground)
-        {
-            if (Xdireccion == Direccion.r)
-            {
-                //rb.AddForce(new Vector2(5, rb.velocity.y), ForceMode2D.Impulse);
-                rb.velocity = new Vector2(800 * dt, rb.velocity.y);
-            }
-            else
-            {
-                //rb.AddForce(new Vector2(-5, rb.velocity.y), ForceMode2D.Impulse);
-                rb.velocity = new Vector2(-800 * dt, rb.velocity.y);
-            }
-            anim.SetTrigger("dash");
-            dash = true;
-        }
-        else if(Input.GetKeyUp(KeyCode.Z))
-        {
-            dash = false;
+            anim.SetBool("jump", true);
         }
 
         if (Input.GetKey(KeyCode.C))
@@ -149,9 +134,12 @@ public class MegamanX : MonoBehaviour {
 
             cargandobuster = 0;
         }
+
             
 
         rb.velocity = new Vector2(rb.velocity.x, rb.velocity.y);
+
+
 
         if(moving)
         {
@@ -164,7 +152,7 @@ public class MegamanX : MonoBehaviour {
 
         if(ground == false)
         {
-            anim.SetBool("salto", true);
+            anim.SetFloat("salto", rb.velocity.y);
         }
 
         if(buster==true)
@@ -191,8 +179,8 @@ public class MegamanX : MonoBehaviour {
     {
         if (coll.gameObject.layer == 8)
         {
+            anim.SetBool("jump", false);
             ground = true;
-            anim.SetBool("salto", false);
         }
 
         if (coll.gameObject.layer == 9)
@@ -215,5 +203,7 @@ public class MegamanX : MonoBehaviour {
             anim.SetTrigger("daño");
         }
     }
+
+    
 
 }
